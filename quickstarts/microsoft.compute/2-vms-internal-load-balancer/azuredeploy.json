@@ -23,7 +23,7 @@
     },
     "vmNamePrefix": {
       "type": "string",
-      "defaultValue": "BackendVM",
+      "defaultValue": "ITTI",
       "metadata": {
         "description": "Prefix to use for VM names"
       }
